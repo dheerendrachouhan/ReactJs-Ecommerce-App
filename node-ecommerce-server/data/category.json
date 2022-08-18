@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Beauty Care",
+        "image": "beauty.jpg",
+        "displayOrder" : 1,
+        "status": 1
+     },
+    {
+        "name": "Books",
+        "image": "books.jpg",
+        "displayOrder" : 2,
+        "status": 1
+    },
+    {
+        "name": "Computers",
+        "image": "computers.jpg",
+        "displayOrder" : 3,
+        "status": 1
+    },
+    {
+        "name": "Electronics",
+        "image": "electronics.jpg",
+        "displayOrder" : 4,
+        "status": 1
+    },
+    {
+        "name": "Women's Fashion",
+        "image": "women_fashion.jpg",
+        "displayOrder" : 5,
+        "status": 1
+    },
+    {
+        "name": "Men's Fashion",
+        "image": "men_fashion.jpg",
+        "displayOrder" : 6,
+        "status": 1
+    },
+    {
+        "name": "Shoes",
+        "image": "shoes.jpg",
+        "displayOrder" : 7,
+        "status": 1
+    },
+    {
+        "name": "Watches",
+        "image": "watches.jpg",
+        "displayOrder" : 8,
+        "status": 1
+    },
+    {
+        "name": "Personal Care",
+        "image": "personal.jpg",
+        "displayOrder" : 9,
+        "status": 1
+    },
+    {
+        "name": "Fitness Care",
+        "image": "fitness.jpg",
+        "displayOrder" : 10,
+        "status": 1
+    },
+    {
+        "name": "Toys",
+        "image": "toys.jpg",
+        "displayOrder" : 11,
+        "status": 1
+    },
+    {
+        "name": "Phones",
+        "image": "phones.jpg",
+        "displayOrder" : 12,
+        "status": 1
+    }
+]

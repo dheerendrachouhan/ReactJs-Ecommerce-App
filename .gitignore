@@ -1,0 +1,7 @@
+# Dependency directories
+node-ecommerce-server/node_modules/
+react-ecommerce/node_modules/
+
+# dotenv environment variables file
+.env
+.env.test

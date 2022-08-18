@@ -1,0 +1,155 @@
+[
+    { 
+        "name": "Canon 360",
+        "price": "300",
+        "description": "It's all new canon 360 to capture your dream in all dimensions",
+        "productCode": "Cam300",
+        "images": [
+            "canon360.jpg"
+        ],
+        "status": 1,
+        "created": "20/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8da"
+        },
+        "displayOrder": 1
+
+    },
+    { 
+        "name": "Blue Polo T-shirt",
+        "price": "100",
+        "description": "Polo conform fit t-shirt",
+        "productCode": "Fas001",
+        "images": [
+            "polo.jpg"
+        ],
+        "status": 1,
+        "created": "20/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8db"
+        },
+        "displayOrder": 2
+
+        
+
+    },
+    { 
+        "name": "Decorative Lamp",
+        "price": "250",
+        "description": "Decorative lamp",
+        "productCode": "Ele001",
+        "images": [
+            "lamp.jpg"
+        ],
+        "status": 1,
+        "created": "20/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8da"
+        },
+        "displayOrder": 3
+
+
+    },
+    { 
+        "name": "Nike Black Runner",
+        "price": "50",
+        "description": "For fast running",
+        "productCode": "Sh010",
+        "images": [
+            "nshoe.jpg"
+        ],
+        "status": 1,
+        "created": "30/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8dc"
+        },
+        "displayOrder": 4
+
+
+    },
+    { 
+        "name": "Black Top",
+        "price": "78",
+        "description": "Give you the attractive look",
+        "productCode": "Wo003",
+        "images": [
+            "blacktop.jpg"
+        ],
+        "status": 1,
+        "created": "30/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8d9"
+        },
+        "displayOrder": 5
+
+
+    },
+    { 
+        "name": "Titan Watch",
+        "price": "149",
+        "description": "To decent look",
+        "productCode": "Wa003",
+        "images": [
+            "twatch.jpg"
+        ],
+        "status": 1,
+        "created": "30/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8dd"
+        },
+        "displayOrder": 6
+
+
+    },
+    { 
+        "name": "Oz Facewash",
+        "price": "158",
+        "description": "To get brigher look all day",
+        "productCode": "Be003",
+        "images": [
+            "facewash.jpg"
+        ],
+        "status": 1,
+        "created": "30/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8d8"
+        },
+        "displayOrder": 7
+
+
+    },
+    { 
+        "name": "Fantom 65",
+        "price": "5000",
+        "description": "Beyond Limits",
+        "productCode": "El003",
+        "images": [
+            "drone.jpg"
+        ],
+        "status": 1,
+        "created": "30/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8da"
+        },
+        "displayOrder": 8
+
+
+    },
+    { 
+        "name": "Computer Chair",
+        "price": "200",
+        "description": "Revolving Chair for comport sit",
+        "productCode": "Co003",
+        "images": [
+            "chair.jpg"
+        ],
+        "status": 1,
+        "created": "30/07/2022",
+        "category" : {
+            "$oid":"62d70b7e5b5db2366f6ec8e2"
+        },
+        "displayOrder": 9
+
+
+    }
+]
